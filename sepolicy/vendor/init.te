@@ -12,3 +12,6 @@ allow init adsprpcd_file:file mounton;
 
 # Smart Charging
 allow init sysfs_battery_supply:file { setattr };
+
+allow init vendor_data_file:file lock;
+allow init hal_audio_default:binder call;
