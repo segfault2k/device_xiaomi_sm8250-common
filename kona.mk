@@ -159,9 +159,6 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     libstdc++.vendor
 
-PRODUCT_PACKAGES += \
-    Snap
-
 # Configstore
 PRODUCT_PACKAGES += \
     disable_configstore
@@ -342,6 +339,10 @@ PRODUCT_SOONG_NAMESPACES += \
 # Public libraries
 PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/configs/public.libraries.txt:$(TARGET_COPY_OUT_VENDOR)/etc/public.libraries.txt
+ 
+# Prebuilt Packages
+PRODUCT_PACKAGES += \
+    GCamGo   
 
 # QMI
 PRODUCT_PACKAGES += \
