@@ -1,0 +1,35 @@
+[
+  {
+    "repository": "LineageOS/android_hardware_xiaomi",
+    "target_path": "hardware/xiaomi",
+    "branch": "lineage-18.1"
+  },
+  {
+    "repository": "LineageOS/android_vendor_qcom_opensource_display-commonsys-intf",
+    "target_path": "hardware/qcom/opensource/display-commonsys-intf",
+    "branch": "lineage-18.1"
+  }, 
+  {
+    "repository": "syberia-project/platform_hardware_qcom_display",
+    "target_path": "hardware/qcom-caf/display",
+    "branch": "11.0-caf-sm8250"
+  },
+  {
+    "repository": "syberia-project/platform_hardware_qcom_media",
+    "target_path": "hardware/qcom-caf/media",
+    "branch": "11.0-caf-sm8250"
+  },
+  {
+    "repository": "syberia-project/platform_hardware_qcom_audio",
+    "target_path": "hardware/qcom-caf/audio",
+    "branch": "11.0-caf-sm8250"
+  },
+  {
+    "repository": "kernel_xiaomi_sm8250",
+    "target_path": "kernel/xiaomi/sm8250"
+  },
+  {
+    "repository": "vendor_xiaomi_sm8250-common",
+    "target_path": "vendor/xiaomi/sm8250-common"
+  }
+]
