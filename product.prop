@@ -1,5 +1,5 @@
-# Use Vulkan backend for Skia UI rendering
-debug.hwui.renderer=skiavk
+# Use OpenGL backend for Skia UI rendering
+debug.hwui.renderer=skiagl
 
 #Audio
 ro.config.media_vol_steps=25
