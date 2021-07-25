@@ -6,7 +6,7 @@
   },
   {
     "repository": "LineageOS/android_vendor_qcom_opensource_display-commonsys-intf",
-    "target_path": "hardware/qcom/opensource/display-commonsys-intf",
+    "target_path": "vendor/qcom/opensource/display-commonsys-intf",
     "branch": "lineage-18.1"
   }, 
   {
@@ -25,11 +25,11 @@
     "branch": "11.0-caf-sm8250"
   },
   {
-    "repository": "kernel_xiaomi_sm8250",
+    "repository": "Ramisky/kernel_xiaomi_sm8250",
     "target_path": "kernel/xiaomi/sm8250"
   },
   {
-    "repository": "vendor_xiaomi_sm8250-common",
+    "repository": "segfault2k/vendor_xiaomi_sm8250-common",
     "target_path": "vendor/xiaomi/sm8250-common"
   }
 ]
