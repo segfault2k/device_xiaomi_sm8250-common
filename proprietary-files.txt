@@ -462,21 +462,6 @@ system_ext/lib64/libmmparser_lite.so|568e6e0f7680e1d3747885f21ae92c018fd0a8a0
 vendor/lib/libmmosal.so|57185feced72009af2df1b09117702c9fae7182b
 vendor/lib64/libmmosal.so|cb5c9b587d00db631f1659816499d3f92b2af050
 
-# Media (Codec2) - from LA.UM.9.12.r1-11500-SMxx50.0
-vendor/bin/hw/vendor.qti.media.c2@1.0-service|c170ebc5a0416f609186639125132b87a5650ef8
-vendor/etc/init/vendor.qti.media.c2@1.0-service.rc|11209316ba8aae64b689217bc13b0804f6620678
-vendor/etc/media_codecs_c2.xml|490211cad553ce69d536c0e55848b6a7d499260d
-vendor/etc/media_codecs_performance_c2.xml|e16b7768c91f1e15ca3ddc146a77645605a1d090
-vendor/etc/seccomp_policy/codec2.vendor.base-arm.policy|3c396a276dfb589501105e7158459fa2d644607e
-vendor/etc/seccomp_policy/codec2.vendor.ext-arm.policy|a134d3d5d74294ca8164056b42389b1c7dbb2b65
--vendor/etc/vintf/manifest/c2_manifest_vendor.xml|0e532bf1c7d6a0ee2e7e03a9cc3283a5bffc7f8e
-vendor/lib/libqcodec2_base.so|5bec0dec355c90d2a9739105b6d9810291ab9995
-vendor/lib/libqcodec2_basecodec.so|a517b6a89bf54d58c46758621c6dce9056cb92f7
-vendor/lib/libqcodec2_core.so|3f0449aa0e7482da3475ded0fba2535441ce47b8
-vendor/lib/libqcodec2_platform.so|95ebe241388a81966cfa95bb23af1f7477476392
-vendor/lib/libqcodec2_utils.so|597fdb58afc1db3761633f7e930b8bb18cda0d85
-vendor/lib/libqcodec2_v4l2codec.so|34550f6f06dd7e31947ebca4f551087c2a08eb62
-
 # Media configs - from LA.UM.9.12.r1-10800-SMxx50.0
 vendor/etc/system_properties.xml|1fef83105060b01a95a790f1504e58adb1df44f1
 
