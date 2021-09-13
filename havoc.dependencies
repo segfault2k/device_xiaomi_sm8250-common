@@ -4,7 +4,11 @@
     "target_path": "hardware/xiaomi"
   },
   {
-    "repository": "android_kernel_xiaomi_sm8250",
+    "repository": "android_kernel_xiaomi_apollo",
     "target_path": "kernel/xiaomi/sm8250"
+  }
+  {
+     "repository": "android_prebuilts_clang_host_linux-x86_clang-r428724",
+     "target_path": "prebuilts/clang/host/linux-x86/clang-r428724"
   }
 ]
